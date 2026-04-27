@@ -27,6 +27,3 @@ jobs:
 
     - name: Run tests
       run: uv run pytest -q
-
-    - name: Run tests
-      run: pytest -q
